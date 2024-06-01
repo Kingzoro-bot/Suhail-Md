@@ -9,13 +9,13 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "KING",
       "required" :true
     },   
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
-      "value": "true",
+      "value": "false",
       "required" :false
     },
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "𝕶𝕴𝕹𝕲 𝕭𝕺𝕿"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -46,7 +46,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-5011a080-9359-4a39-8e22-9f4fb239b6aa",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2348100835767"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -79,7 +79,7 @@
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
+      "value": "3e81120d44dde41c6b9eb2d13fb9b4d",
       "required" :false
     }, 
     "REMOVE_BG_KEY": {
